@@ -10,8 +10,32 @@ body {
 }
 
 .card {
+    position:absolute;
+    top: 100px;
+    left: 10px;
     background-color: white;
-    padding: 20px;
+    padding: 1px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card1 {
+    position:absolute;
+    top: 100px;
+    left: 280px;
+    background-color: white;
+    padding: 1px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.card2 {
+    position:absolute;
+    top: 100px;
+    left: 560px;
+    background-color: white;
+    padding: 1px;
     margin-bottom: 15px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
